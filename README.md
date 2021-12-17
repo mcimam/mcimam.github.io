@@ -7,4 +7,4 @@ Please refer to usual method for deploying hugo-based website.
 
 ## Licence
 Even though this is simple project and intended for personal user only, I include MIT license along side this project.
-However, please see original template [here](https://github.com/rhazdon/hugo-theme-hello-friend-ng) and hugo licence [here](https://github.com/gohugoio/hugo)
+However, please see original template [here](https://github.com/rhazdon/hugo-theme-hello-friend-ng) and hugo licence [here](https://github.com/gohugoio/hugo) for further detail.
