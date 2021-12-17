@@ -1,4 +1,4 @@
-baseurl      = ""
+baseurl      = "https://mcimam.github.io/"
 title        = "MCImam website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
