@@ -1,0 +1,31 @@
+# Hugo generated files
+/public/
+/resources/
+/cache/
+
+# Ignore the rendered content
+/content/post/*.html
+/content/post/*.xml
+/content/post/*.json
+
+# Ignore the compiled binary
+*.exe
+
+# Ignore macOS hidden files
+.DS_Store
+
+# Ignore the Hugo environment file
+.env
+
+# Ignore Node.js dependencies
+/node_modules/
+
+# Ignore Hugo config backup files
+/config.toml~
+
+# Ignore any personal IDE/project-specific files
+.idea/
+.vscode/
+
+# Ignore Hugo logs
+/log/
