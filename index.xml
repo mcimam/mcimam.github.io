@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jul 2024 20:30:09 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 21:08:21 +0700</lastBuildDate>
     <atom:link href="https://mcimam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A letter</title>
+      <link>https://mcimam.github.io/s3h1/</link>
+      <pubDate>Sun, 07 Jul 2024 21:08:21 +0700</pubDate>
+      <guid>https://mcimam.github.io/s3h1/</guid>
+      <description>Dear My Love Solve this problem, and glory and rewards will be yours.
+But dare to fail, you must send it to me.
+The challenge is simple.
+Solve for the variables a and b in the given equation.
+Once you&amp;rsquo;ve found the solution, send me a picture of the graph.
+Are you brave enough to accept the challenge?
+For graph calculator, you can use Desmos Calculator
+\[ a = |15 - 8| \] \[ b = (\int_{1}^{2} (2x + 1) \, dx) / 2 \] \[a\left(x^{b} + \left(y - x^{\frac{2}{3}}\right)^{b}\right) = 2001\] With Graph,</description>
+    </item>
     <item>
       <title>Automate Ubuntu Install</title>
       <link>https://mcimam.github.io/blogs/automate-ubuntu-install/</link>
