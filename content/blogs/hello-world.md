@@ -3,6 +3,8 @@ title = 'Hello World'
 date = 2024-07-06T23:46:08+07:00
 draft = false
 showtoc = false
+hideSummary = true
+disableShare = true
 +++
 
 This is some Hello world for you:

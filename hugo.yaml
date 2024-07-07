@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://mcimam.github.io/
 languageCode: en-us
-title: Mcimam - Portofolio
+title: Mcimam - Personal Web
 theme: [PaperMod]
 
 enableRobotsTXT: true
@@ -12,12 +12,42 @@ minify:
   disableXML: true
   minifyOutput: true
 
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      tag: tags
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 10
+        - identifier: blogs
+          name: Blogs
+          url: /blogs/
+          weight: 20
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 30
+        - name: Search
+          url: search/
+          weight: 100
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Mcimam
+  description: "Mcimam - Personal Web"
+  keywords: [Mcimam, Portfolio, Blogs]
+  author: Mcimam
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -93,10 +123,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  # editPost:
-  #   URL: "https://github.com/<path_to_repo>/content"
-  #   Text: "Suggest Changes" # edit text
-  #   appendFilePath: true # to append file path to Edit link
+  editPost:
+    URL: "https://github.com/mcimam/mcimam.github.io/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -109,16 +139,7 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 10
-    - identifier: blogs
-      name: Blogs
-      url: /blogs/
-      weight: 20
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
