@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Mcimam - Personal Web</title>
-    <link>https://mcimam.github.io/blogs/</link>
-    <description>Recent content in Blogs on Mcimam - Personal Web</description>
+    <title>Ubuntu on Mcimam - Personal Web</title>
+    <link>https://mcimam.github.io/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Mcimam - Personal Web</description>
     <image>
       <title>Mcimam - Personal Web</title>
       <url>https://mcimam.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Jul 2024 20:30:09 +0700</lastBuildDate>
-    <atom:link href="https://mcimam.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mcimam.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automate Ubuntu Install</title>
       <link>https://mcimam.github.io/blogs/automate-ubuntu-install/</link>
@@ -21,14 +21,6 @@
       <description>How to create ubuntu autoinstall Creating an automated installation ISO for Ubuntu can save time and ensure consistency across deployments. Here&amp;rsquo;s a step-by-step guide to create your own autoinstall ISO. Automatic Ubuntu installation is performed with the autoinstall format. You might also know this feature as “unattended”, “hands-off” or “preseeded” installation.
 This format is supported in the following installers:
 Ubuntu Server, version 20.04 and later Ubuntu Desktop, version 23.04 and later Step 1 : Download ubuntu package First, download the latest Ubuntu live server ISO from the official website.</description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>https://mcimam.github.io/blogs/hello-world/</link>
-      <pubDate>Sat, 06 Jul 2024 23:46:08 +0700</pubDate>
-      <guid>https://mcimam.github.io/blogs/hello-world/</guid>
-      <description>This is some Hello world for you:
-Pascal namespace HelloWorld; begin println(&amp;#34;Hello World!&amp;#34;) end. C++ #include &amp;lt;iostream&amp;gt; int main() { std::cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34;; return 0; } Java public class HelloWorld { public static void main(String[] args) { System.out.println(&amp;#34;Hello, World!&amp;#34;); } } Python print(¨Hello World!¨) BrainF*ck ++++++++++[&amp;gt;+++++++&amp;gt;++++++++++&amp;gt;+++&amp;gt;+&amp;lt;&amp;lt;&amp;lt;&amp;lt;-]&amp;gt;++.&amp;gt;+.+++++++..+++.&amp;gt;++.&amp;lt;&amp;lt;+++++++++++++++.&amp;gt;.+++.------.--------.&amp;gt;+.&amp;gt;. </description>
     </item>
   </channel>
 </rss>

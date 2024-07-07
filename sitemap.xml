@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blogs/</loc>
+    <loc>https://mcimam.github.io/blogs/automate-ubuntu-install/</loc>
+    <lastmod>2024-07-07T20:30:09+07:00</lastmod>
+  </url><url>
+    <loc>https://mcimam.github.io/blogs/</loc>
+    <lastmod>2024-07-07T20:30:09+07:00</lastmod>
+  </url><url>
+    <loc>https://mcimam.github.io/tags/devops/</loc>
+    <lastmod>2024-07-07T20:30:09+07:00</lastmod>
+  </url><url>
+    <loc>https://mcimam.github.io/</loc>
+    <lastmod>2024-07-07T20:30:09+07:00</lastmod>
+  </url><url>
+    <loc>https://mcimam.github.io/tags/</loc>
+    <lastmod>2024-07-07T20:30:09+07:00</lastmod>
+  </url><url>
+    <loc>https://mcimam.github.io/tags/ubuntu/</loc>
+    <lastmod>2024-07-07T20:30:09+07:00</lastmod>
+  </url><url>
+    <loc>https://mcimam.github.io/blogs/hello-world/</loc>
     <lastmod>2024-07-06T23:46:08+07:00</lastmod>
   </url><url>
-    <loc>https://example.org/blogs/hello-world/</loc>
-    <lastmod>2024-07-06T23:46:08+07:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2024-07-06T23:46:08+07:00</lastmod>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://mcimam.github.io/search/</loc>
   </url>
 </urlset>
