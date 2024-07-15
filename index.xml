@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jul 2024 21:08:21 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 10:13:55 +0700</lastBuildDate>
     <atom:link href="https://mcimam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Odoo Owl Widget</title>
+      <link>https://mcimam.github.io/blogs/odoo-owl-widget/</link>
+      <pubDate>Tue, 09 Jul 2024 10:13:55 +0700</pubDate>
+      <guid>https://mcimam.github.io/blogs/odoo-owl-widget/</guid>
+      <description>In this section, I am going to create new widget base on existing widget. Odoo use widget to display certain fields. All available widget is listed under web module. More specifically inside addons/web/static/src/views/fields.
+Inheriting Existing Widget In this example, I am going to inherit properties fields and remove Add a property. Let&amp;rsquo;s call this widget new_properties. As usual, all modifiation will be done inside new odoo module.
+Create new folder /static/src/components/new_properties.</description>
+    </item>
     <item>
       <title>A letter</title>
       <link>https://mcimam.github.io/s3h1/</link>
